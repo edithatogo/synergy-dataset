@@ -1,0 +1,38 @@
+# Citation File Format: https://citation-file-format.github.io/
+cff-version: 1.2.0
+message: If you use this dataset, please cite the upstream dataset using the preferred citation
+  below and record the repository revision used.
+title: SYNERGY dataset
+authors:
+- family-names: De Bruin
+  given-names: Jonathan
+- family-names: Ma
+  given-names: Yongchao
+- family-names: Ferdinands
+  given-names: Gerbrich
+- family-names: Teijema
+  given-names: Jelle
+- family-names: Van de Schoot
+  given-names: Rens
+repository-code: https://github.com/edithatogo/synergy-dataset
+url: https://github.com/edithatogo/synergy-dataset
+abstract: This repository is a fork of asreview/synergy-dataset. The upstream project retains
+  its authorship and attribution. Cite the exact repository revision used.
+type: dataset
+preferred-citation:
+  type: data
+  title: SYNERGY - Open machine learning dataset on study selection in systematic reviews
+  authors:
+  - family-names: De Bruin
+    given-names: Jonathan
+  - family-names: Ma
+    given-names: Yongchao
+  - family-names: Ferdinands
+    given-names: Gerbrich
+  - family-names: Teijema
+    given-names: Jelle
+  - family-names: Van de Schoot
+    given-names: Rens
+  year: 2023
+  doi: 10.34894/HE6NAQ
+  url: https://doi.org/10.34894/HE6NAQ
